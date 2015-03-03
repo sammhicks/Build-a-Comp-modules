@@ -1,5 +1,5 @@
-# Build-a-Comp-modules
-The build-a-comp modules implemented in Logisim
+# Build-a-Comp Modules
+The UoB Build-a-Comp modules implemented in Logisim
 
 To import the modules, go to the above url, download the module, then in Logisim, click on "Project", then "Load Library", then on "Logisim Library..."
 
